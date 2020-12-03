@@ -1,0 +1,8 @@
+## Interface: 90002
+## Title: GTA: Maw
+## Notes: Replaces the Eye of the Jailer with GTA style stars.
+## Author: Raeli
+## SavedVariables: GTAMDB
+## X-SavedVariables: GTAMDB
+
+Core.lua
